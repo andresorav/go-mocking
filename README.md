@@ -1,1 +1,1 @@
-# go-mocking
+# Mocking third party dependencies in Go
